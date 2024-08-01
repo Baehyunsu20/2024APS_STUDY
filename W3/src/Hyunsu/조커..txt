@@ -1,6 +1,7 @@
 1. 입력 받은 배열을 오름차순으로 정렬 : list_pre
 ***cnt = 0의 갯수
 2. 중복되는 숫자들을 제거해서 : list_final
+--
 
 {3, 5, 6, 10, 11, 0, 0} 일 때.
 list_final[idx+j]-list_final[idx] -1 = 5-3-1 = 1(개의 숫자 또는 0으로 채워줘야할 needs)
