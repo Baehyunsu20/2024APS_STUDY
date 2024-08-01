@@ -2,7 +2,7 @@ package Hyunsu;
 import java.util.*;
 
 
-public class J1205_조커 {
+public class J1205_조커{
 
 	public static void main(String[] args) {
 		Scanner sc =  new Scanner(System.in);
