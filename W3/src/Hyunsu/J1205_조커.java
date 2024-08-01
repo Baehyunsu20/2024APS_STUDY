@@ -1,8 +1,8 @@
-package w3;
+package Hyunsu;
 import java.util.*;
 
 
-public class j1205조커 {
+public class J1205_조커 {
 	public static void main(String[] args) {
 		Scanner sc =  new Scanner(System.in);
 		//몇 장의 카드인지 인풋.
@@ -37,11 +37,21 @@ public class j1205조커 {
 			list[idx++]=list_pre[i];
 		}
 		
-		//중복되는값을 지워야함 -> 매서드로 만들자
+		//중복되는값을 지워야함 -> 매서드로 만들자 -> list_set
+		list_set(list);
+		System.out.println(list);
+		
+		
+		
 		
 		
 		 
 	}
+	
+	
+	
+	
+	
 	
 	static int[] list_set(int[] list) {
 		
@@ -80,4 +90,12 @@ public class j1205조커 {
 		
 	}
 
+	
+	
+	
+	
+	
+
 }
+
+
