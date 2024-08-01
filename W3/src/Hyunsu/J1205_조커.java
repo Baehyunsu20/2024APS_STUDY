@@ -81,7 +81,6 @@ public class J1205_조커 {
 		
 		//동적배열 초기화 방법 까먹지 말기
 		List<Integer> res_pre = new ArrayList<>();
-//		int idx =0;
 		
 		//첫 요소는 넣고 시작
 		res_pre.add(list[0]);
@@ -91,6 +90,7 @@ public class J1205_조커 {
 		//중복이 존재하는 list
 		for(int i=1; i<list.length; i++) {
 			//i=4일때가 에러남
+			
 			int tsize = res_pre.size();
 //			System.out.println(tsize);
 			
