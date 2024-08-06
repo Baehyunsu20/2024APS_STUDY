@@ -1,8 +1,6 @@
-package SWEA_1218_괄호짝짓기;
-
 import java.util.Scanner;
 
-public class Solution
+public class SWEA_1218_bracket
 {
 	
 	public static void main(String args[]) throws Exception

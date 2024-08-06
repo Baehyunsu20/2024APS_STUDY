@@ -1,8 +1,6 @@
-package SWEA_8931_제로;
-
 import java.util.Scanner;
 
-	public class Solution
+	public class SWEA_8931_zero
 	{
 		
 		public static void main(String args[]) throws Exception
