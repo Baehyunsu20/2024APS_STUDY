@@ -2,7 +2,7 @@ package SWEA_1217_거듭제곱;
 
 import java.util.Scanner;
 
-public class SWEA_1217_거듭제곱 {
+public class Solution {
 	
 	// N^M을 구하는 메소드 power 구현
 	static int power(int N, int M) {

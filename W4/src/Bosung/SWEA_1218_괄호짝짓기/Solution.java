@@ -2,7 +2,7 @@ package SWEA_1218_괄호짝짓기;
 
 import java.util.Scanner;
 
-public class SWEA_1218_괄호짝짓기 {
+public class Solution {
 	
 	// 메인 메소드
 	public static void main(String[] args) {

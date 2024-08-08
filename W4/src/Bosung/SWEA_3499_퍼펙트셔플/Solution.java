@@ -2,7 +2,7 @@ package SWEA_3499_퍼펙트셔플;
 
 import java.util.Scanner;
 
-public class SWEA_3499_퍼펙트셔플 {
+public class Solution {
 	
 	public static void main(String[] args) {
 		
