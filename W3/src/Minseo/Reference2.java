@@ -1,8 +1,8 @@
 package Minseo;
 
 import java.util.*;
-// 정답
-public class Reference {
+
+public class Reference2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
@@ -32,7 +32,6 @@ public class Reference {
         int maxLen = 0, currentLen = 0, zeroLeft = zeroCnt;
         
         for (int i = 0; i < arr.length; i++) {
-            if (arr[i] == 0) continue; // 조커는 건너뜀
             
             currentLen = 1; // 현재 숫자 포함 초기 길이
             zeroLeft = zeroCnt;
@@ -40,8 +39,6 @@ public class Reference {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[j] == arr[j - 1] + 1) {
                     currentLen++;
-                } else if (arr[j] == arr[j - 1]) {
-                    continue; // 같은 숫자는 무시
                 } else {
                     int gap = arr[j] - arr[j - 1] - 1;
                     if (gap <= zeroLeft) {
