@@ -2,7 +2,7 @@ package SWEA_7102_준홍이의카드놀이;
 
 import java.util.Scanner;
 
-public class SWEA_7102_준홍이의카드놀이 {
+public class Solution {
 	
 	public static void main(String[] args) {
 		

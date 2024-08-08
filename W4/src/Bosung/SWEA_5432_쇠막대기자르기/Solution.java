@@ -2,7 +2,7 @@ package SWEA_5432_쇠막대기자르기;
 
 import java.util.Scanner;
 
-public class SWEA_5432_쇠막대기자르기 {
+public class Solution {
 	
 	// 메인 메소드
 	public static void main(String[] args) {
