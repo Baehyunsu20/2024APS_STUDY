@@ -1,8 +1,8 @@
-package SWEA_7102_준홍이의카드놀이;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_7102_준홍이의카드놀이 {
 	
 	public static void main(String[] args) {
 		

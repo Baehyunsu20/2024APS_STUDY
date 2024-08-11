@@ -1,8 +1,8 @@
-package SWEA_1225_암호생성기;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1225_암호생성기 {
 	
 	public static void main(String[] args) {
 		

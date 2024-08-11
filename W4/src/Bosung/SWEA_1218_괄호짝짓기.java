@@ -1,8 +1,8 @@
-package SWEA_1218_괄호짝짓기;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1218_괄호짝짓기 {
 	
 	// 메인 메소드
 	public static void main(String[] args) {

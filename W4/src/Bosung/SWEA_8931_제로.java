@@ -1,8 +1,8 @@
-package SWEA_8931_제로;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_8931_제로 {
 	
 	// 메인 메소드
 	public static void main(String[] args) {
