@@ -14,6 +14,7 @@ public class S1225_암호생성기 {
 				//8개의 숫자로 일단 채워둠
 				queue.add(sc.nextInt());
 			}
+			
 			while(true) {
 				int k = cnt % 5; 
 				if(k==0)k=5;

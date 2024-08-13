@@ -22,6 +22,7 @@ public class Solution {
 			}
 		//-i 후에 B에 값을 저장하고 deQueue로 뺀 후 enQueue로 추가
 		int B;
+		
 		out:	
 		while(true) {
 			// - 1~부터 - 5까지 반복 
