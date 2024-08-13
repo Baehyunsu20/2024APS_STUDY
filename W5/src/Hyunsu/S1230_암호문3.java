@@ -70,7 +70,7 @@ public class S1230_암호문3 {
 				System.out.print(" "+list.get(num));
 			}
 			System.out.println();
-			sc.close();
+			
 		
 	}
 

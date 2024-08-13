@@ -3,7 +3,7 @@ package Hyunsu;
 import java.util.*;
 
 /**
- * 다시 풀기
+ * 다시 풀기 -> 완료.
  * 카운트 배열을 이용해서 풀자
  */
 public class S1966_숫자를정렬하자 {
