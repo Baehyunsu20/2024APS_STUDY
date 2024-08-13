@@ -1,10 +1,10 @@
-package SWEA_1222_계산기1;
+package Bosung;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1222_계산기1 {
 	
 	// 메인 메소드
 	public static void main(String[] args) {

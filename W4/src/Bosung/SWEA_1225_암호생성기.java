@@ -1,12 +1,16 @@
+<<<<<<< HEAD:W4/src/Bosung/SWEA_1225_암호생성기/Solution.java
 package SWEA_1225_암호생성기;
 /**
  * 
  */
 
+=======
+package Bosung;
+>>>>>>> d476e99ab333dc0946d14590ca7dd61571cb188e:W4/src/Bosung/SWEA_1225_암호생성기.java
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1225_암호생성기 {
 	
 	public static void main(String[] args) {
 		

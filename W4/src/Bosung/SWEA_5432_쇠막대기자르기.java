@@ -1,8 +1,8 @@
-package SWEA_5432_쇠막대기자르기;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_5432_쇠막대기자르기 {
 	
 	// 메인 메소드
 	public static void main(String[] args) {

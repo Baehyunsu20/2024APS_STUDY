@@ -1,8 +1,8 @@
-package SWEA_3499_퍼펙트셔플;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_3499_퍼펙트셔플 {
 	
 	public static void main(String[] args) {
 		

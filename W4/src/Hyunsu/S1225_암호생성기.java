@@ -32,6 +32,7 @@ public class S1225_암호생성기 {
 			
 			System.out.print("#"+t);
 			while(!(queue.isEmpty())) {
+				
 				System.out.print(" "+queue.poll());
 			}
 			System.out.println();
