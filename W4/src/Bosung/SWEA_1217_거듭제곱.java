@@ -1,8 +1,8 @@
-package SWEA_1217_거듭제곱;
+package Bosung;
 
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1217_거듭제곱 {
 	
 	// N^M을 구하는 메소드 power 구현
 	static int power(int N, int M) {
