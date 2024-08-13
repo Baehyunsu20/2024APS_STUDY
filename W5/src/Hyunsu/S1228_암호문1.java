@@ -68,6 +68,7 @@ public class S1228_암호문1 {
 				System.out.print(" "+list.get(l));
 			}
 			System.out.println();
+			sc.close();
 
 		}
 

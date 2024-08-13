@@ -32,6 +32,7 @@ public class S1230_암호문3 {
 				//삽입, 추가, 삭제 읽어오기
 				mode = sc.next();
 //				System.out.println(mode);
+				
 				switch (mode) {
 				case "I": {
 					//중간에 삽입하는 연산
@@ -69,6 +70,7 @@ public class S1230_암호문3 {
 				System.out.print(" "+list.get(num));
 			}
 			System.out.println();
+			sc.close();
 		
 	}
 
