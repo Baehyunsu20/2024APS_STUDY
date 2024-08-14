@@ -2,18 +2,13 @@ package Hyunsu;
 import java.util.*;
 import java.io.*;
 
-import java.util.*;
-import java.io.*;
 /**
  * 가로, 세로를 이용해서
  */
 
 public class S1974_스도쿠검증 {
-<<<<<<< HEAD
-	public static void main(String[] args) throws FileNotFoundException {
-		Scanner sc = new Scanner(new File(""));
-		int T = sc.nextInt();
-=======
+
+
 	static int[][] arr = new int[9][9];
 	//가로의 카운트 배열
 	static int[] row  = new int[10];
@@ -48,7 +43,7 @@ public class S1974_스도쿠검증 {
 		
 		
 		
-	}
+	}//main
 	static boolean check(int[][] arr) {
 		
 		//가로 확인
@@ -98,7 +93,7 @@ public class S1974_스도쿠검증 {
 		}
 
 		return true;
->>>>>>> 0b2cc4079bd92976c6e2e2c7a69b331481ef5864
+
 	}
 
 }
