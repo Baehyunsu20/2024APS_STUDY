@@ -4,6 +4,8 @@ import java.io.*;
 
 public class S1859_백만장자프로젝트 {
 	
+<<<<<<< HEAD
+=======
 	static double sum = 0;
 	static double max = 0;
 	
@@ -42,5 +44,6 @@ public class S1859_백만장자프로젝트 {
 		
 		
 	}
+>>>>>>> 0b2cc4079bd92976c6e2e2c7a69b331481ef5864
 
 }
