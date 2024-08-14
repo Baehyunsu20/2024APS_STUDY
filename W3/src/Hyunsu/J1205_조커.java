@@ -2,7 +2,7 @@ package Hyunsu;
 import java.util.*;
 
 
-public class J1205_조커 {
+public class J1205_조커{
 
 	public static void main(String[] args) {
 		Scanner sc =  new Scanner(System.in);
@@ -164,7 +164,7 @@ public class J1205_조커 {
 				}
 				else if(needs > already + cnt) {
 					//4개가 필요한데 1개밖에 없을때, 비교할 인덱스 i를 바꿔야함.
-					System.out.println("i: "+i+" j: "+j+" 0부족");
+					System.out.println("i: "+i+" j: "+j+" 0부족, maxLen : "+maxLen);
 					break;//j 반복문을 벗어남.
 				}
 				else if(needs < already + cnt) {
@@ -187,8 +187,8 @@ public class J1205_조커 {
 //					int tmp = list_final[j]-list_final[i]+1;
 					int tmp = (list_final[j]-list_final[i]+1) + (cnt -(needs-already));
 					if(maxLen<tmp)maxLen=tmp;
-					System.out.println("i: "+i+" j: "+j+" 잉여 0이 있을 때 : 마지막은 아님");
-					System.out.println("잉여 0이 있을 때_마지막은 아님 : "+maxLen);
+					System.out.println("i: "+i+" j: "+j+" 잉여 0이 있을 때 : 마지막은 아님, maxLen :" +maxLen);
+//					System.out.println("잉여 0이 있을 때_마지막은 아님 : "+maxLen);
 					
 					
 					continue;

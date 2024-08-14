@@ -1,7 +1,7 @@
 package Minseo;
 
 import java.util.*;
-
+// 정답
 public class Reference {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
