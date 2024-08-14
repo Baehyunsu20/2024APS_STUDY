@@ -18,7 +18,7 @@ public class RC카 {
 		
 		// commands 수(초 수) 만큼 반복	
 			for(int j=0; j<n;j++) {
-			// 속도 type 받아오기 // 0: 유지 / 1:감속 /2: 감속
+			// 속도 type 받아오기 // 0: 유지 / 1:가속 /2: 감속
 				int type = sc.nextInt(); 
 			// 속도 받아오기 (문제의 input 값 중 type이 0인 경우는 speed 개별 지정 필요함)
 				int speed;
@@ -37,6 +37,7 @@ public class RC카 {
 				else if (type==2) {
 				first-=speed;
 				if(first<0) { // 문제 조건에 감속해야할 속도가 현재속도 first보다 더 크다면 속도를 0으로 하라는 조건
+					//3. 현재 속도보다 감속할 속도가 더 클 경우, 속도는 0 m/s 가 된다.
 					first=0;
 					}
 				}
