@@ -1,4 +1,4 @@
-###[🔗문제풀이 체크리스트](https://docs.google.com/spreadsheets/d/15-zuagGFsheww7x7uAUo0e0usHY0bs9woAcxRvrV8tk/edit?usp=sharing)
+[🔗문제풀이 체크리스트](https://docs.google.com/spreadsheets/d/15-zuagGFsheww7x7uAUo0e0usHY0bs9woAcxRvrV8tk/edit?usp=sharing)
 
 ### BOJ 기초 문제(제한시간 넘어가면 답 보고, 정리)
 - (1) ~ (12) : Sep w1까지
