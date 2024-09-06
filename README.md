@@ -145,8 +145,6 @@
 | **Total**   |   16000      |             |             |
 
 
-![](./asset/Zwgpwt.jpg)
-
 ![열코딩](https://github.com/user-attachments/assets/06e769fa-ed21-41cf-ae05-15085488ed26)
 
 
