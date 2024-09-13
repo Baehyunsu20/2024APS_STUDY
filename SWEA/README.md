@@ -5,6 +5,7 @@
 
 <details>
 <summary>9월 1주차 문제LIST</summary>
+    
 ```
 [9월 1주차]
 
@@ -47,7 +48,9 @@
 
 </details>
 
+
 ```
+
 [9월 2주차]
 9/9
     - SWEA_1267_작업순서
