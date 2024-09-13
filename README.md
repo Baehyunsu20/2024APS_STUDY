@@ -22,7 +22,8 @@
 - BOJ :  APS 문제의 경우, 구현을 테블릿으로 정리하고, 코드 작성(구현 1시간 지나면 다른 사람 코드보기)
 - `https://www.acmicpc.net/problem/1463 ` : 이런 형태로 숫자로 검색
 
-(2) 이취코(SSAFY-EBOOK에 있어요!) : 커리큘럼 비교해보기.
+(2) 이취코(SSAFY-EBOOK) : 커리큘럼 비교해보기.
+- https://ssafy5.dkyobobook.co.kr/main.ink
 
 
 ### BOJ 기초 문제(제한시간 넘어가면 답 보고, 정리)
