@@ -49,7 +49,8 @@ public class Solution {
 	
 			return;
 		}
-		
+		else if (checked[a] && checked[b]){
+			ans--;
 		else {
 			list.add(list.indexOf(a)+1, b);
 			return;
